@@ -45,6 +45,13 @@ To use the provided Jupyter Notebook for object detection:
     ```
 2. Open the provided ```seed-detection.ipynb``` file and run the cells step by step
 
+## Sample Predictions
+![predict_img-1](https://github.com/PubDe/ZeaMays-Seed-Detection-LowLight/blob/main/seed_count-predict_img%20(3).jpg?raw=true)
+## 
+![predict_img-2](https://github.com/PubDe/ZeaMays-Seed-Detection-LowLight/blob/main/seed_count-predict_img%20(1).jpg?raw=true)
+## 
+![predict_img-3](https://github.com/PubDe/ZeaMays-Seed-Detection-LowLight/blob/main/seed_count-predict_img%20(7).jpg?raw=true)
+
 ## Model Configuration
 
 To train a custom model, configure the ```pipeline.config``` file to match your dataset and environment settings. Ensure the paths to your dataset and pre-trained model are correct.
